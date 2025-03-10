@@ -6,6 +6,6 @@
 - The logo is not mine and it is own by Anilab.
 
 - If you are the creator of any asset used here and would like it removed, please contact me. 
-(seankennethmanlapig@gmail.com)
+(claudiaexford@gmail.com)
 
 The code in this repository is my original work unless it is stated otherwise. Feel free to use or modify it.
