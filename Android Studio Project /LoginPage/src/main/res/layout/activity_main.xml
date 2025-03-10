@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_login"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="107dp"
+        android:layout_y="269dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="372dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_x="18dp"
+        android:layout_y="297dp"
+        android:background="@drawable/round"
+        android:ems="10"
+        android:hint="Username"
+        android:inputType="textEmailAddress"
+        android:padding="18dp"
+        android:textSize="20sp" />
+
+
+    <EditText
+        android:id="@+id/pwd"
+        android:layout_width="372dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_x="20dp"
+        android:layout_y="369dp"
+        android:background="@drawable/round"
+        android:ems="10"
+        android:hint="Password"
+        android:inputType="textPassword"
+        android:padding="18dp"
+        android:textSize="20sp" />
+
+
+    <Button
+        android:id="@+id/login"
+        android:layout_width="242dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="32dp"
+        android:layout_x="91dp"
+        android:layout_y="444dp"
+        android:backgroundTint="@color/white"
+        android:text="Login"
+        android:textColor="#3B84F1"
+        android:textSize="20sp" />
+
+    <ImageView
+        android:id="@+id/imageView3"
+        android:layout_width="199dp"
+        android:layout_height="246dp"
+        android:layout_x="101dp"
+        android:layout_y="58dp"
+        app:srcCompat="@drawable/image" />
+
+
+</AbsoluteLayout>
+
