@@ -9,7 +9,7 @@ I do not own the assets used in these projects. Credits for third-party assets a
 - **[Another Asset]** - [Source or License Information]
 
 If you are the creator of any asset used here and would like it removed, please contact me.
-- seankennethmanlapig@gmail.com
+- claudiaexford@gmail.com
 
 ## License
 The code in this repository is my original work unless stated otherwise. Feel free to use or modify it according to the [chosen license].
